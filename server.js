@@ -32,10 +32,3 @@ app.use(function(req, res) {
 });
 
 console.log('RESTful API serveur demarrer sur: ' + port);
-// Dans le terminal tapez 'npm install' puis
-// tapez 'npm start' pour démarrer le serveur.
-// Voir les scripts dans package.json
-//
-//  "scripts": {
-//    "start": "nodemon server.js"
-//  },
